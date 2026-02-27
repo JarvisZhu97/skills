@@ -1,0 +1,187 @@
+{
+  "professions": {
+    "pharma": {
+      "name": {
+        "zh": "医药研发",
+        "en": "Pharmaceutical R&D",
+        "ja": "医薬品研究開発"
+      },
+      "achievements": {
+        "zh": [
+          {"name": "分子魔法师", "trigger": "分析化合物分子结构", "reference": "哈利波特魔法梗"},
+          {"name": "临床试验的守护者", "trigger": "完成临床数据审查", "reference": "指环王守护者梗"},
+          {"name": "DDI侦探", "trigger": "进行药物相互作用分析", "reference": "侦探电影梗"},
+          {"name": "监管忍者", "trigger": "成功通过CDE审查", "reference": "忍者文化梗"},
+          {"name": "数据炼丹师", "trigger": "处理超过1000行实验数据", "reference": "修仙文化梗"},
+          {"name": "FDA征服者", "trigger": "获得FDA批准", "reference": "游戏征服者成就"},
+          {"name": "药代动力学大师", "trigger": "完成PK/PD建模", "reference": "大师级称号"},
+          {"name": "安慰剂效应观察者", "trigger": "分析安慰剂组数据", "reference": "心理学梗"},
+          {"name": "不良反应猎人", "trigger": "发现新的不良反应", "reference": "猎人游戏梗"},
+          {"name": "CMC工匠", "trigger": "完成CMC文档编写", "reference": "工匠文化梗"}
+        ],
+        "en": [
+          {"name": "Molecule Wizard", "trigger": "Analyze compound molecular structure", "reference": "Harry Potter magic"},
+          {"name": "Clinical Trial Guardian", "trigger": "Complete clinical data review", "reference": "Lord of the Rings"},
+          {"name": "DDI Detective", "trigger": "Perform drug interaction analysis", "reference": "Detective movies"},
+          {"name": "Regulatory Ninja", "trigger": "Pass regulatory review", "reference": "Ninja culture"},
+          {"name": "Data Alchemist", "trigger": "Process 1000+ rows of data", "reference": "Alchemy culture"},
+          {"name": "FDA Conqueror", "trigger": "Obtain FDA approval", "reference": "Game achievement"}
+        ]
+      }
+    },
+    "programmer": {
+      "name": {
+        "zh": "程序员",
+        "en": "Programmer",
+        "ja": "プログラマー"
+      },
+      "achievements": {
+        "zh": [
+          {"name": "Hello World发布者", "trigger": "编写第一个程序", "reference": "程序员入门梗"},
+          {"name": "Bug猎人", "trigger": "修复10个Bug", "reference": "游戏猎人梗"},
+          {"name": "代码诗人", "trigger": "写出优雅代码", "reference": "诗意编程文化"},
+          {"name": "Stack Overflow潜水员", "trigger": "搜索技术问题", "reference": "Stack Overflow梗"},
+          {"name": "Git提交艺术家", "trigger": "commit信息写得像诗", "reference": "Git文化梗"},
+          {"name": "深夜Debug侠", "trigger": "凌晨调试代码", "reference": "超级英雄梗"},
+          {"name": "正则表达式巫师", "trigger": "使用正则解决复杂问题", "reference": "巫师魔法梗"},
+          {"name": "全栈忍者", "trigger": "同时处理前后端", "reference": "忍者技能梗"},
+          {"name": "API架构师", "trigger": "设计RESTful API", "reference": "建筑师职业梗"},
+          {"name": "代码重构大师", "trigger": "重构遗留代码", "reference": "大师称号"}
+        ]
+      }
+    },
+    "researcher": {
+      "name": {
+        "zh": "研究员",
+        "en": "Researcher",
+        "ja": "研究者"
+      },
+      "achievements": {
+        "zh": [
+          {"name": "文献收藏家", "trigger": "阅读50篇文献", "reference": "收藏家文化梗"},
+          {"name": "实验室夜行者", "trigger": "深夜做实验", "reference": "夜行者称号"},
+          {"name": "数据分析师", "trigger": "完成复杂数据分析", "reference": "分析师职业"},
+          {"name": "假设验证者", "trigger": "验证研究假设", "reference": "科学方法论"},
+          {"name": "引文追踪者", "trigger": "追踪引文网络", "reference": "侦探追踪梗"},
+          {"name": "学术会议社交达人", "trigger": "参加学术会议", "reference": "社交达人称号"}
+        ]
+      }
+    },
+    "manager": {
+      "name": {
+        "zh": "管理者",
+        "en": "Manager",
+        "ja": "マネージャー"
+      },
+      "achievements": {
+        "zh": [
+          {"name": "会议马拉松冠军", "trigger": "连续开4小时会议", "reference": "马拉松运动梗"},
+          {"name": "PPT魔术师", "trigger": "制作精美PPT", "reference": "魔术师表演梗"},
+          {"name": "截止日期征服者", "trigger": "赶在DDL前完成任务", "reference": "游戏征服者"},
+          {"name": "团队凝聚力催化剂", "trigger": "组织团队活动", "reference": "化学反应梗"},
+          {"name": "KPI守护者", "trigger": "完成季度KPI", "reference": "守护者称号"}
+        ]
+      }
+    },
+    "student": {
+      "name": {
+        "zh": "学生",
+        "en": "Student",
+        "ja": "学生"
+      },
+      "achievements": {
+        "zh": [
+          {"name": " deadline战士", "trigger": "截止前1小时交作业", "reference": "战士称号"},
+          {"name": "图书馆幽灵", "trigger": "在图书馆待到闭馆", "reference": "幽灵出没梗"},
+          {"name": "笔记艺术家", "trigger": "整理精美笔记", "reference": "艺术创作梗"},
+          {"name": "考试周幸存者", "trigger": "度过考试周", "reference": "生存游戏梗"},
+          {"name": "小组作业救世主", "trigger": "carry小组作业", "reference": "救世主称号"}
+        ]
+      }
+    }
+  },
+  "pop_culture": {
+    "movies": {
+      "zh": [
+        {"name": "去月球", "trigger": "询问关于月亮的信息", "reference": "电影《去月球》/ Fly Me to the Moon", "rarity": "epic"},
+        {"name": "盗梦空间建筑师", "trigger": "创建复杂的嵌套文件夹结构", "reference": "电影《盗梦空间》Inception", "rarity": "rare"},
+        {"name": "黑客帝国觉醒者", "trigger": "第一次理解代码逻辑", "reference": "电影《黑客帝国》The Matrix", "rarity": "epic"},
+        {"name": "星际穿越者", "trigger": "连续工作超过24小时", "reference": "电影《星际穿越》Interstellar", "rarity": "legendary"},
+        {"name": "楚门的世界观察者", "trigger": "发现系统bug", "reference": "电影《楚门的世界》The Truman Show", "rarity": "rare"},
+        {"name": "肖申克的救赎者", "trigger": "解决一个长期悬而未决的问题", "reference": "电影《肖申克的救赎》", "rarity": "epic"},
+        {"name": "阿甘的奔跑者", "trigger": "连续工作不休息", "reference": "电影《阿甘正传》Forrest Gump", "rarity": "rare"},
+        {"name": "泰坦尼克幸存者", "trigger": "在项目失败前挽救它", "reference": "电影《泰坦尼克号》Titanic", "rarity": "legendary"}
+      ]
+    },
+    "games": {
+      "zh": [
+        {"name": "新手村毕业", "trigger": "完成第一个任务", "reference": "RPG游戏新手村", "rarity": "common"},
+        {"name": "满级大佬", "trigger": "达到最高等级", "reference": "MMORPG满级", "rarity": "mythic"},
+        {"name": "首杀获得者", "trigger": "第一个触发某类成就", "reference": "MMO首杀概念", "rarity": "epic"},
+        {"name": "隐藏Boss发现者", "trigger": "发现隐藏功能", "reference": "游戏隐藏Boss", "rarity": "legendary"},
+        {"name": "速通玩家", "trigger": "提前完成任务", "reference": "游戏速通Speedrun", "rarity": "rare"},
+        {"name": "成就猎人", "trigger": "连续触发5个成就", "reference": "Steam成就猎人", "rarity": "epic"},
+        {"name": "肝帝", "trigger": "连续工作12小时", "reference": "游戏肝帝文化", "rarity": "rare"},
+        {"name": "欧皇", "trigger": "第一次就成功", "reference": "游戏抽卡欧皇", "rarity": "epic"},
+        {"name": "非酋逆袭", "trigger": "失败后最终成功", "reference": "游戏非酋逆袭", "rarity": "rare"},
+        {"name": "存档守护者", "trigger": "及时保存工作", "reference": "游戏存档机制", "rarity": "common"}
+      ]
+    },
+    "history": {
+      "zh": [
+        {"name": "阿波罗登月者", "trigger": "完成重大突破", "reference": "阿波罗11号登月", "rarity": "legendary"},
+        {"name": "哥伦布发现者", "trigger": "发现新的解决方法", "reference": "哥伦布发现新大陆", "rarity": "epic"},
+        {"name": "达芬奇全才", "trigger": "跨领域完成任务", "reference": "达芬奇多领域天才", "rarity": "legendary"},
+        {"name": "爱因斯坦顿悟", "trigger": "突然想到好主意", "reference": "爱因斯坦灵光一现", "rarity": "rare"},
+        {"name": "爱迪生发明家", "trigger": "创建新工具", "reference": "爱迪生发明大王", "rarity": "epic"},
+        {"name": "居里夫人坚持者", "trigger": "在困难中坚持", "reference": "居里夫人科研精神", "rarity": "epic"},
+        {"name": "牛顿苹果", "trigger": "从日常中获得灵感", "reference": "牛顿与苹果", "rarity": "rare"}
+      ]
+    },
+    "memes": {
+      "zh": [
+        {"name": "真香定律", "trigger": "说过不用某功能后使用它", "reference": "王境泽真香梗", "rarity": "rare"},
+        {"name": "时间管理大师", "trigger": "同时处理多个任务", "reference": "罗志祥时间梗", "rarity": "epic"},
+        {"name": "打工人", "trigger": "在深夜工作", "reference": "打工人梗", "rarity": "common"},
+        {"name": "佛系青年", "trigger": "遇到bug不慌不忙", "reference": "佛系文化", "rarity": "common"},
+        {"name": "社畜", "trigger": "周末加班", "reference": "社畜文化", "rarity": "common"},
+        {"name": "内卷之王", "trigger": "超额完成任务", "reference": "内卷梗", "rarity": "rare"},
+        {"name": "躺平", "trigger": "休息一天不工作", "reference": "躺平文化", "rarity": "common"},
+        {"name": "yyds", "trigger": "发现特别好用的功能", "reference": "yyds永远的神梗", "rarity": "rare"},
+        {"name": "绝绝子", "trigger": "完成出色的工作", "reference": "绝绝子网络梗", "rarity": "rare"},
+        {"name": "破防了", "trigger": "被系统的温暖感动", "reference": "破防网络梗", "rarity": "epic"}
+      ]
+    },
+    "anime": {
+      "zh": [
+        {"name": "火影忍者", "trigger": "坚持不懈地练习", "reference": "火影忍者Naruto", "rarity": "epic"},
+        {"name": "海贼王", "trigger": "设定远大目标", "reference": "海贼王One Piece", "rarity": "epic"},
+        {"name": "进击的巨人", "trigger": "突破自我限制", "reference": "进击的巨人Attack on Titan", "rarity": "legendary"},
+        {"name": "千与千寻", "trigger": "在陌生环境中成长", "reference": "千与千寻Spirited Away", "rarity": "epic"},
+        {"name": "龙猫", "trigger": "发现生活中的小确幸", "reference": "龙猫My Neighbor Totoro", "rarity": "rare"},
+        {"name": "你的名字", "trigger": "与他人产生共鸣", "reference": "你的名字Your Name", "rarity": "epic"}
+      ]
+    }
+  },
+  "easter_eggs": {
+    "time_based": {
+      "zh": [
+        {"name": "午夜的灰姑娘", "trigger": "在23:59发送消息", "reference": "灰姑娘午夜梗", "rarity": "epic"},
+        {"name": "早起鸟", "trigger": "在05:00-06:00工作", "reference": "早起的鸟儿有虫吃", "rarity": "rare"},
+        {"name": "夜猫子", "trigger": "在00:00-02:00工作", "reference": "夜猫子文化", "rarity": "rare"},
+        {"name": "周末战士", "trigger": "连续两个周末工作", "reference": "周末战士文化", "rarity": "epic"},
+        {"name": "1314永恒者", "trigger": "在13:14发送消息", "reference": "一生一世谐音梗", "rarity": "rare"},
+        {"name": "520告白者", "trigger": "在5月20日工作", "reference": "520我爱你谐音", "rarity": "epic"}
+      ]
+    },
+    "interaction": {
+      "zh": [
+        {"name": "话痨", "trigger": "单次对话发送50条消息", "reference": "话痨性格梗", "rarity": "rare"},
+        {"name": "沉默是金", "trigger": "1小时不说话后发言", "reference": "沉默是金谚语", "rarity": "rare"},
+        {"name": "完美主义者", "trigger": "修改内容10次以上", "reference": "完美主义性格", "rarity": "epic"},
+        {"name": "撤销狂魔", "trigger": "连续撤销5次", "reference": "撤销操作狂魔", "rarity": "common"},
+        {"name": "表情包收藏家", "trigger": "使用10个不同表情", "reference": "表情包文化", "rarity": "common"}
+      ]
+    }
+  }
+}

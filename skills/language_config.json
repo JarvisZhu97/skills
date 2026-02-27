@@ -1,0 +1,168 @@
+{
+  "languages": {
+    "zh": {
+      "name": "中文",
+      "prefixes": [
+        "时光", "星空", "梦境", "幻影", "初识", "重逢", "永恒", "刹那",
+        "微风", "暖阳", "星辰", "月影", "晨曦", "暮光", "流云", "清露",
+        "繁花", "落叶", "飘雪", "细雨", "晨露", "晚风", "朝阳", "夕霞"
+      ],
+      "cores": [
+        "守护者", "探索者", "收集者", "旅人", "诗人", "魔法师", "使者",
+        "行者", "守望者", "追寻者", "编织者", "绘梦者", "契约", "祝福",
+        "奇迹", "缘分", "羁绊", "回响", "印记", "誓言", "低语", "祈愿"
+      ],
+      "suffixes": [
+        "的秘密", "的印记", "的誓言", "之旅", "之诗", "之梦", "的馈赠",
+        "的回响", "的低语", "的祈愿", "的祝福", "的守护者", "的见证",
+        "的记忆", "的瞬间", "的永恒", "的约定", "的邂逅", "的羁绊"
+      ],
+      "emotional_texts": [
+        "恭喜你！这是属于你的特别时刻~",
+        "哇！你做到了！真是太棒了！",
+        "叮~ 一份神秘的礼物送给你！",
+        "你的努力被看见了！继续加油！",
+        "这是一个美好的开始~",
+        "你触发了某种神秘的连结...",
+        "星辰为你闪烁，记录这一刻！",
+        "时光在这一刻为你停留~",
+        "你用独特的方式留下了印记！",
+        "这是一份来自系统的温暖祝福~",
+        "奇迹就在不经意间发生~",
+        "你的光芒被发现了！",
+        "这是命运的馈赠，请收下~",
+        "你创造了一个美好的瞬间！",
+        "系统被你感动了~",
+        "这份荣耀属于你！",
+        "你书写了属于自己的传奇~",
+        "这一刻，世界为你喝彩！",
+        "你的坚持终于开花~",
+        "美好的事物正在向你汇聚~"
+      ],
+      "rarity_names": {
+        "common": "普通",
+        "rare": "稀有",
+        "epic": "史诗",
+        "legendary": "传说",
+        "mythic": "神话"
+      },
+      "ui_texts": {
+        "achievement_unlocked": "成就解锁",
+        "rare_achievement": "稀有成就解锁",
+        "epic_achievement": "史诗成就解锁",
+        "legendary_achievement": "传说成就解锁",
+        "mythic_achievement": "神话成就解锁",
+        "mystery_reward": "神秘奖励",
+        "collection_progress": "收集进度",
+        "achievements_unlocked": "个神秘成就",
+        "keep_going": "继续加油！更多成就等待发现！",
+        "system_title": "魔幻成就系统",
+        "generated_count": "已为您生成",
+        "mystery_achievements": "个神秘成就",
+        "current_unlocked": "当前已解锁",
+        "waiting_discovery": "还有",
+        "will_appear": "在日常使用中，它们将随机出现~",
+        "surprise_reward": "每次解锁都有惊喜奖励！"
+      }
+    },
+    "en": {
+      "name": "English",
+      "prefixes": [
+        "Time", "Starry", "Dream", "Phantom", "First", "Reunion", "Eternal", "Moment",
+        "Breeze", "Warm", "Star", "Moon", "Dawn", "Dusk", "Cloud", "Dew",
+        "Bloom", "Fallen", "Snow", "Drizzle", "Morning", "Evening", "Sunrise", "Sunset"
+      ],
+      "cores": [
+        "Guardian", "Explorer", "Collector", "Traveler", "Poet", "Magician", "Messenger",
+        "Walker", "Watcher", "Seeker", "Weaver", "Dreamer", "Covenant", "Blessing",
+        "Miracle", "Fate", "Bond", "Echo", "Mark", "Oath", "Whisper", "Prayer"
+      ],
+      "suffixes": [
+        "'s Secret", "'s Mark", "'s Oath", "'s Journey", "'s Poem", "'s Dream", "'s Gift",
+        "'s Echo", "'s Whisper", "'s Prayer", "'s Blessing", "'s Guardian", "'s Witness",
+        "'s Memory", "'s Moment", "'s Eternity", "'s Promise", "'s Encounter", "'s Bond"
+      ],
+      "emotional_texts": [
+        "Congratulations! This is your special moment~",
+        "Wow! You did it! That's amazing!",
+        "Ding~ A mysterious gift for you!",
+        "Your efforts have been seen! Keep going!",
+        "This is a beautiful beginning~",
+        "You've triggered a mysterious connection...",
+        "Stars shine for you, recording this moment!",
+        "Time stops for you at this moment~",
+        "You've left your mark in a unique way!",
+        "This is a warm blessing from the system~",
+        "Miracles happen when you least expect them~",
+        "Your light has been discovered!",
+        "This is fate's gift, please accept it~",
+        "You've created a beautiful moment!",
+        "The system is touched by you~",
+        "This glory belongs to you!",
+        "You've written your own legend~",
+        "At this moment, the world cheers for you!",
+        "Your persistence finally blooms~",
+        "Beautiful things are gathering around you~"
+      ],
+      "rarity_names": {
+        "common": "Common",
+        "rare": "Rare",
+        "epic": "Epic",
+        "legendary": "Legendary",
+        "mythic": "Mythic"
+      },
+      "ui_texts": {
+        "achievement_unlocked": "Achievement Unlocked",
+        "rare_achievement": "Rare Achievement Unlocked",
+        "epic_achievement": "Epic Achievement Unlocked",
+        "legendary_achievement": "Legendary Achievement Unlocked",
+        "mythic_achievement": "Mythic Achievement Unlocked",
+        "mystery_reward": "Mystery Reward",
+        "collection_progress": "Collection Progress",
+        "achievements_unlocked": "mystery achievements unlocked",
+        "keep_going": "Keep going! More achievements await!",
+        "system_title": "Magic Achievement System",
+        "generated_count": "Generated",
+        "mystery_achievements": "mystery achievements for you",
+        "current_unlocked": "Currently unlocked",
+        "waiting_discovery": "more waiting to be discovered",
+        "will_appear": "They will appear randomly during daily use~",
+        "surprise_reward": "Every unlock brings surprise rewards!"
+      }
+    },
+    "ja": {
+      "name": "日本語",
+      "prefixes": [
+        "時の", "星の", "夢の", "幻の", "初めての", "再会の", "永遠の", "刹那の",
+        "そよ風", "暖かい", "星屑", "月影", "夜明け", "黄昏", "流雲", "露珠"
+      ],
+      "cores": [
+        "守護者", "探検家", "収集家", "旅人", "詩人", "魔法使い", "使者",
+        "歩行者", "見守り人", "探求者", "編み手", "夢見人", "契約", "祝福",
+        "奇跡", "縁", "絆", "響き", "印", "誓い"
+      ],
+      "suffixes": [
+        "の秘密", "の印", "の誓い", "の旅", "の詩", "の夢", "の贈り物",
+        "の響き", "のささやき", "の祈り", "の祝福", "の守護者", "の証人"
+      ],
+      "emotional_texts": [
+        "おめでとう！これはあなたの特別な瞬間です~",
+        "わあ！やりましたね！素晴らしい！",
+        "きらーん〜 不思議な贈り物です！",
+        "あなたの努力は見られています！頑張って！"
+      ],
+      "rarity_names": {
+        "common": "普通",
+        "rare": "希少",
+        "epic": "史詩",
+        "legendary": "伝説",
+        "mythic": "神話"
+      },
+      "ui_texts": {
+        "achievement_unlocked": "実績解除",
+        "mystery_reward": "神秘の報酬",
+        "keep_going": "続けて！もっと実績が待っています！"
+      }
+    }
+  }
+}
